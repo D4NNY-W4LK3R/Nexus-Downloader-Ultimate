@@ -6,7 +6,7 @@
 // @supportURL   https://github.com/D4NNY-W4LK3R/nexus-downloader-ultimate/issues
 // @description  Tired of opening every Nexus Mods page just to download files one by one? Want to download multiple mods without creating an official Nexus collection? Nexus Downloader Ultimate makes it easier. Choose the exact mod files you want, organize them into your own collections, and download them together in just a few clicks!
 // @author       D4NNY-W4LK3R
-// @license      Copyright (c) 2026 REDR41N. All rights reserved.
+// @license      Copyright (c) 2026 D4NNY-W4LK3R. All rights reserved.
 // @match        https://www.nexusmods.com/*
 // @run-at       document-idle
 // @noframes
@@ -36,7 +36,7 @@
 
 /* Embedded third-party fonts retain their upstream SIL OFL 1.1 or Apache 2.0 terms.
    Copyright notices and license texts are included at the end of this userscript.
-   REDR41N's application copyright does not apply to those third-party fonts. */
+   D4NNY-W4LK3R's application copyright does not apply to those third-party fonts. */
 "use strict";
 var NDU3;
 (function (NDU3) {
@@ -56,7 +56,7 @@ var NDU3;
         "name": "Nexus Downloader Ultimate",
         "version": "3.0.0-rc.119-governor",
         "variant": NDU3.buildVariant(),
-        "author": "REDR41N",
+        "author": "D4NNY-W4LK3R",
         "storageSchema": 3,
         "reportSchema": 3,
         "namespace": "ndu3",
@@ -14583,7 +14583,7 @@ var NDU3;
 /* BEGIN NDU EMBEDDED FONT LICENSES
 THIRD-PARTY FONT LICENSING — NDU
 
-NDU's software and REDR41N assets remain under their existing copyright. The
+NDU's software and D4NNY-W4LK3R assets remain under their existing copyright. The
 third-party fonts embedded in the userscript have separate upstream licenses.
 
 The named embedded fonts and their upstream copyright/licensing sources:
