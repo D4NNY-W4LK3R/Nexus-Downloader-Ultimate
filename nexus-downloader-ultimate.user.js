@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nexus Downloader Ultimate
 // @namespace    NexusDownloaderUltimate
-// @version      3.0.1
+// @version      3.0.2
 // @homepageURL  https://github.com/D4NNY-W4LK3R/nexus-downloader-ultimate
 // @supportURL   https://github.com/D4NNY-W4LK3R/nexus-downloader-ultimate/issues
 // @description  Tired of opening every Nexus Mods page just to download files one by one? Want to download multiple mods without creating an official Nexus collection? Nexus Downloader Ultimate makes it easier. Choose the exact mod files you want, organize them into your own collections, and download them together in just a few clicks!
